@@ -5,21 +5,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
+Mobile version
+![Screenshot Mobile-version](/images/screenshotMobile.png)
+Desktop version
 ![Screenshot Desktop-version](/images/screenshotDesktop.png)
-![Screenshot Mobile-version](/images/screenshotMobile.png))
 
 ## My process
 
@@ -32,16 +33,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-In this challenge I've Learned a lot about CSS braaking points and CSS flexgrid Alingment
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In this challenge I've Learned a lot about CSS braaking points and CSS flex Alingment
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@henrioliveira](https://www.frontendmentor.io/profile/henrioliveira)
 
 ## Acknowledgments
 
-Never Forget to check if your Flex Container have enough hight to all its flex items
+Never Forget to check if your Flex Container is big enough to fit all its flex items
